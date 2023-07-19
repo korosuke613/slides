@@ -1,3 +1,5 @@
 # korosuke613/slides
 
-my slides
+My slides.
+
+Slide list is [./slides](./slides).
